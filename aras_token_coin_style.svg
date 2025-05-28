@@ -1,0 +1,11 @@
+
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="grad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FE9100" />
+      <stop offset="100%" stop-color="#A34E00" />
+    </radialGradient>
+  </defs>
+  <circle cx="16" cy="16" r="15" fill="url(#grad)" stroke="#E9D7C4" stroke-width="1"/>
+  <text x="16" y="18" text-anchor="middle" font-size="10" font-family="Orbitron, sans-serif" fill="#ffffff" font-weight="bold">ARAS</text>
+</svg>
