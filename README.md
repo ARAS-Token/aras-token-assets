@@ -20,7 +20,7 @@ This repository contains the official token logo and visual assets for the ARAS 
 ## 🌐 Official Links
 
 - **Website:** [https://aras-tech.ai](https://aras-tech.ai)
-- **Email:** team@aras-tech.ai
+- **Email:** token@aras-tech.ai
 - **Explorer:** [Arbiscan Token Page](https://arbiscan.io/token/0x8B448Ccd7A89aab74219d3BD6d86446be7eB900d) *(pending)*
 
 ## 📜 Usage
