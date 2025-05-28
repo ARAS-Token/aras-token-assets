@@ -1,16 +1,29 @@
-# aras-token-assets
-Official token assets for ARAS AI ($ARAS). This repository contains the official SVG logo and metadata used for blockchain explorers and token verification platforms.
 # ARAS Token Assets
 
-This repository contains the official visual assets and metadata for the ARAS AI Token ($ARAS).
+This repository contains the official token logo and visual assets for the ARAS AI Token ($ARAS).
 
-## Contents
-- `aras_token_clean_32x32.svg` – Official ARAS Token SVG logo (32x32 px)
+## 🔹 Token Information
 
-## Official Links
-- Website: https://aras-tech.ai
-- Contact: team@aras-tech.ai
-- Smart Contract (Arbitrum One): 0x8B448Ccd7A89aab74219d3BD6d86446be7eB900d
+- **Token Name:** ARAS AI Token
+- **Symbol:** ARAS
+- **Chain:** Arbitrum One
+- **Contract Address:** 0x8B448Ccd7A89aab74219d3BD6d86446be7eB900d
+- **Token Type:** Utility Token
+- **Use Case:** Access to ARAS AI software modules, automations, and business systems
 
-## Usage
-This logo is intended for use on token explorers, exchanges, and partner sites in connection with the verified ARAS AI Token.
+## 📦 Files Included
+
+| File                         | Description                         |
+|------------------------------|-------------------------------------|
+| `aras_token_coin_style.svg` | Official 32x32 SVG token icon       |
+
+## 🌐 Official Links
+
+- **Website:** [https://aras-tech.ai](https://aras-tech.ai)
+- **Email:** team@aras-tech.ai
+- **Explorer:** [Arbiscan Token Page](https://arbiscan.io/token/0x8B448Ccd7A89aab74219d3BD6d86446be7eB900d) *(pending)*
+
+## 📜 Usage
+
+The logo file is optimized for listing platforms, token explorers, and integration partners.  
+It is intended to help verify the visual identity of the ARAS Token and increase trust across DeFi and Web3 applications.
